@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "The Phonograph's Salutation" ] },
+    "summary": { "en": [ "There are three extant versions of this poem of concern for this AudiAnnotate edition.  The first is a sound-recorded recitation of the poem performed by the author into an Edison Phonograph in 1890 and captured on a brown wax phonograph cylinder.  The second is a printed version of the poem that appeared in a pamphlet that was printed to accompany the cylinder recording, as it was prepared for shipping from New York to London as an example of a \"phonogram\" - a form of phonographic correspondence.  The third version of the poem is a printed version that appeared in a collection of poems published by Horatio Nelson Powers, Lyrics of the Hudson (Boston: D. Lothrop Company, 1891), pp. 69-70.  The title of the poem appears in capitals with a period at the end in both the cylinder pamphlet and in the published book version.  This project presents the sound of the cylinder version." ] },
+    "items": [
+    ]
+}
