@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/i-seize-the-palpitating-air---air-is-pronounced-with-an-open-vowel-sound--evoking-britiish-accent-.json",
+  "type": "AnnotationPage",
+  "label": "I seize the palpitating air.  Air is pronounced with an open vowel sound, evoking Britiish accent.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/i-seize-the-palpitating-air---air-is-pronounced-with-an-open-vowel-sound--evoking-britiish-accent--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I seize the palpitating air.  Air is pronounced with an open vowel sound, evoking Britiish accent.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "6.583060,9.804558"
+        }
+      }
+    }
+  ]
+}

@@ -5,7 +5,7 @@
     "label": { "en": [ "The Phonograph's Salutation Sound Recording" ] },
     "homepage": [
       {
-        "id": "https://www.sup.org/books/extra/?id=23893&amp;amp;i=Online%20Materials.html",
+        "id": "https://www.sup.org/books/extra/?id=23893&amp;amp;amp;i=Online%20Materials.html",
         "type": "Text",
         "label": { "en": [ "The Phonograph's Salutation Sound Recording" ] },
         "format": "text/html"
@@ -23,6 +23,38 @@
         "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
         "type": "Canvas",
         "duration": 107.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-i-am-the-latest-born-of-edison--.json",
+            "label": "\"I am the latest born of Edison.\""
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/friction-noise-from-wax-cylinder--.json",
+            "label": "Friction noise from wax cylinder. "
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-hoard--is-pronounced-with-an-american--new-york-accent-.json",
+            "label": "\"Hoard\" is pronounced with an American, New York accent."
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/i-seize-the-palpitating-air---air-is-pronounced-with-an-open-vowel-sound--evoking-britiish-accent-.json",
+            "label": "I seize the palpitating air.  Air is pronounced with an open vowel sound, evoking Britiish accent."
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-new-york--is-pronounced-with-a-ny-accent---new-yawk--.json",
+            "label": "\"New York\" is pronounced with a NY accent, \"New Yawk\"."
+          }
+        ],
         "items": [
           {
             "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/paintings",

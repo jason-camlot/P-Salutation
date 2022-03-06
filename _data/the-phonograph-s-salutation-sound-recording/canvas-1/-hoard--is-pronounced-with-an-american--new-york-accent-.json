@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-hoard--is-pronounced-with-an-american--new-york-accent-.json",
+  "type": "AnnotationPage",
+  "label": "\"Hoard\" is pronounced with an American, New York accent.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-hoard--is-pronounced-with-an-american--new-york-accent--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Hoard\" is pronounced with an American, New York accent.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "10.683976,11.207678"
+        }
+      }
+    }
+  ]
+}

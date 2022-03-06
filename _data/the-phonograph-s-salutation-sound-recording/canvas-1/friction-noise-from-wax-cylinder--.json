@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/friction-noise-from-wax-cylinder--.json",
+  "type": "AnnotationPage",
+  "label": "Friction noise from wax cylinder. ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/friction-noise-from-wax-cylinder---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Friction noise from wax cylinder. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2.801302"
+        }
+      }
+    }
+  ]
+}
