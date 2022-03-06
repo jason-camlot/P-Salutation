@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/.json",
+  "type": "AnnotationPage",
+  "label": "",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker reads the title to the poem, \"The Phonograph's Salutation\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2.801302,4.902279"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Friction noise from wax cylinder. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2.801302"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I seize the palpitating air.  Air is pronounced with an open vowel sound, evoking Britiish accent.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "6.583060,9.804558"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Hoard\" is pronounced with an American, New York accent.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "10.683976,11.207678"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I am the latest born of Edison.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "87.537934,92.821627"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"New York\" is pronounced with a NY accent, \"New Yawk\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "100.969652,102.121795"
+        }
+      }
+    }
+  ]
+}
