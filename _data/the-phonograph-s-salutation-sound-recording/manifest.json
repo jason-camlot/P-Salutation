@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "The Phonograph's Salutation Sound Recording" ] },
+    "homepage": [
+      {
+        "id": "https://www.sup.org/books/extra/?id=23893&amp;i=Online%20Materials.html",
+        "type": "Text",
+        "label": { "en": [ "The Phonograph's Salutation Sound Recording" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.sup.org/",
+        "type": "Agent",
+        "label": { "en": [ "Stanford University Press" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 107.0,
+        "items": [
+          {
+            "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.sup.org/books/pages/23893/audio/CH1-02-Powers-Phonographs_Salutation-1888.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 107.0
+                },
+                "target": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
