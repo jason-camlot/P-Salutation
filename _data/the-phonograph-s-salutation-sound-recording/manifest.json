@@ -5,7 +5,7 @@
     "label": { "en": [ "The Phonograph's Salutation Sound Recording" ] },
     "homepage": [
       {
-        "id": "https://www.sup.org/books/extra/?id=23893&amp;amp;amp;amp;amp;amp;amp;amp;amp;i=Online%20Materials.html",
+        "id": "https://www.sup.org/books/extra/?id=23893&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;i=Online%20Materials.html",
         "type": "Text",
         "label": { "en": [ "The Phonograph's Salutation Sound Recording" ] },
         "format": "text/html"
@@ -23,14 +23,6 @@
         "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas",
         "type": "Canvas",
         "duration": 107.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/canvas/-new-york--is-pronounced-with-a-ny-accent---new-yawk--.json",
-            "label": "\"New York\" is pronounced with a NY accent, \"New Yawk\"."
-          }
-        ],
         "items": [
           {
             "id": "https://jason-camlot.github.io/P-Salutation/the-phonograph-s-salutation-sound-recording/canvas-1/paintings",
